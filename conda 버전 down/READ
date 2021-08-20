@@ -1,0 +1,5 @@
+# conda search [Package name] 
+## 버전 확인
+
+# conda pip==version
+## 특정 버전 설치
